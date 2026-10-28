@@ -1,0 +1,17 @@
+ORÇAFÁCIL — DASHBOARD DE ORÇAMENTOS
+
+Arquivos:
+- app.py: dashboard Python + Streamlit
+- orcamentos.csv: dados de exemplo, separados por ponto e vírgula
+- requirements.txt: dependências
+
+Como executar:
+1. Instale Python.
+2. Abra o terminal na pasta deste projeto.
+3. Execute: pip install -r requirements.txt
+4. Execute: streamlit run app.py
+5. O navegador abrirá o dashboard.
+
+O CSV contém exemplos fictícios. Faça uma cópia antes de substituir os dados.
+O dashboard calcula custos previstos e reais e mostra alerta quando o valor cobrado
+fica abaixo dos custos reais.

@@ -1,0 +1,4 @@
+﻿id;cliente;servico;status;valor_cobrado;pecas_previstas;mao_obra_prevista;outros_previstos;pecas_reais;mao_obra_real;outros_reais;observacoes
+1;Mariana Costa;Manutenção de computador;Em andamento;500.0;180.0;150.0;40.0;220.0;160.0;45.0;Peça extra necessária
+2;João Mendes;Instalação de equipamento;Concluído;750.0;250.0;180.0;35.0;240.0;170.0;30.0;Finalizado dentro do orçamento
+3;Oficina Central;Reparo de impressora;Em andamento;300.0;90.0;100.0;20.0;110.0;110.0;25.0;Acompanhar custo da mão de obra
